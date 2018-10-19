@@ -1,10 +1,10 @@
-# 리엑트 학습
+# 리액트 학습
 
 참고 : [velopert]: (https://velopert.com/reactjs-tutorials)
 
 ### 배열 다루기 생성과 렌더링(1)
 
-- 리엑트에서 state 내부값을 직접적으로 수정하면 안됨 => **불변성 유지**
+- 리액트에서 state 내부값을 직접적으로 수정하면 안됨 => **불변성 유지**
 - push, slice, unshift, pop (부적절 -> 직접 수정하기 때문)
 - concat, slice, map, filter (적절 -> 새 배열을 반환 하기 때문)
 
